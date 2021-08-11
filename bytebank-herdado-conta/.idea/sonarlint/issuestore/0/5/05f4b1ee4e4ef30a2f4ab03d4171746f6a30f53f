@@ -1,0 +1,8 @@
+
+[
+java:S1854
+"9Remove this useless assignment to local variable "value".(Òô¹Øıÿÿÿÿ8ÕŒóŠ³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÀ±€ûÿÿÿÿ8ïÅñŠ³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÀ±€ûÿÿÿÿ8ŸöŠ³/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Öå–48ÒØ÷Š³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥µÿ“ûÿÿÿÿ8ÓØ÷Š³/

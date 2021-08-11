@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äÞÈÉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŽîöÞýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿ïÍµüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éçž¬ùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µèŠ›ûÿÿÿÿ8´ýõ‰³/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8©»÷‰³/

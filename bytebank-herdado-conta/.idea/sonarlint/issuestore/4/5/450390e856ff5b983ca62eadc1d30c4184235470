@@ -1,0 +1,7 @@
+
+f
+java:S1206 "PThis class overrides "equals()" and should therefore also override "hashCode()".(£ë‹¦
+5
+java:S2097 "Add a type test to this method.(£ë‹¦
+a
+java:S2259""FA "NullPointerException" could be thrown; "refConta" is nullable here.(§…Æ´ûÿÿÿÿ

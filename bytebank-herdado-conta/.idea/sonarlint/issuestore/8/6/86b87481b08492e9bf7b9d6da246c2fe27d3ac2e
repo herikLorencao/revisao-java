@@ -1,0 +1,9 @@
+
+{
+java:S1210e"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¹ÍÚßıÿÿÿÿ8Ü»š³/
+O
+java:S5993"9Change the visibility of this constructor to "protected".(¹ììÓ
+V	java:S125"<This block of commented-out lines of code should be removed.(Íê½Ÿıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(’À¡”
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(…êİ«şÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(…êİ«şÿÿÿÿ
